@@ -1,10 +1,9 @@
-### 
 
 Web presence is an urgent necessity to become compliant in this time and age. We need connectivity, an online presence, and a definite channel to communicate the product or service we are offering. 
 
 I am a Web Service Provider that creates custom web portals, hosts them and manages their availability. My clients are business owners, software developers and web design agencies. I develop custom solutions within a short period, optionally host them and create scalable solutions that are pocket friendly. My area of focus can broadly be categorised with these words: DevOps; WordPress; and Content Writer.
 
-Is there a way we can be of help to you? Let us begin with a chat.
+Is there a way I can be of help to you? Let us begin with a chat.
 
 https://t.me/vijosak
 
