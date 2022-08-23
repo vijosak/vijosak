@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+
 #### DevOps | WordPress | Content Writing | 
 ![DevOps | WordPress | Content Writing | ](https://pbs.twimg.com/profile_banners/259304682/1407578236/600x200)
 
