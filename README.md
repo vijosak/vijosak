@@ -1,19 +1,15 @@
 
-#### DevOps | WordPress | Content Writing | 
-![DevOps | WordPress | Content Writing | ](https://pbs.twimg.com/profile_banners/259304682/1407578236/600x200)
+#### AWS Certified DevOps Engineer 
+Welcome to the world of DevOps excellence! With my recent achievements in obtaining the AWS Certified Developer and Solution Architect Associate certifications, I'm equipped to deliver unparalleled solutions in the realm of cloud computing, infrastructure management, and software development.
 
-Web presence is an urgent necessity to become compliant in this time and age. We need connectivity, an online presence, and a definite channel to communicate the product or service we are offering. 
+In this fast-paced digital age, establishing a robust online presence is more crucial than ever. As a DevOps Engineer, I specialize in crafting custom web solutions, ensuring their seamless hosting and optimal availability. My expertise caters to a diverse clientele, including business owners, software developers, and web design agencies.
 
-I am a Web Service Provider that creates custom web portals, hosts them and manages their availability. My clients are business owners, software developers and web design agencies. I develop custom solutions within a short period, optionally host them and create scalable solutions that are pocket friendly. I can broadly categorise my area of focus with these words: DevOps; WordPress; and Content Writer.
+My core focus revolves around DevOps, where I leverage my AWS expertise to create scalable and cost-effective solutions. I excel in orchestrating Docker and Kubernetes containers, optimizing HTML and CSS for exceptional web experiences, and managing AWS cloud environments.
 
-I am a Web Service Provider that combines DevOps Skills, WordPress expertise and Content Writing Skills to create a unique value proposition that delights customers.
+Let's collaborate on projects that harness the power of DevOps, AWS, and cutting-edge technologies. Together, we can shape innovative solutions that not only meet but exceed your expectations. Reach out to me and let's begin a conversation about how I can elevate your projects.
 
-Is there a way I can be of help to you? Let us begin with a chat.
+📬 Contact me: ovie.adesanoye@gmail.com
 
-https://t.me/vijosak
-
-
-Skills: WordPress / Docker / Kubernetes / HTML / CSS/AWS/Writing
 
 - 🔭 I’m currently working on https://vijosak.com 
 - 🌱 I’m currently learning Sales and Marketing 
