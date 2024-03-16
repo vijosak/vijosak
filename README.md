@@ -1,7 +1,7 @@
 👋 Hi there! I'm Adesanoye Ovie, an enthusiastic DevOps Engineer dedicated to optimizing software delivery pipelines and automating infrastructure management.
 
 🛠️ Expertise:
-- Specialized in CI/CD Pipelines (Jenkins, GitLab CI/CD) to streamline software deployment processes.
+- Specialized in CI/CD Pipelines to streamline software deployment processes.
 - Proficient in Containerization (Docker) for efficient application deployment and scalability.
 - Experienced in Cloud Platforms (AWS) for designing and managing scalable and resilient architectures.
 
