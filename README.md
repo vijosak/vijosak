@@ -9,7 +9,7 @@ Let's collaborate to bring your vision to life. Leverage my expertise to elevate
 
 📬 Contact me: ovie.adesanoye@gmail.com
 
-- 🔭 I’m currently working on [Vijosak](https://vijosak.com)
+- 🔭 I’m currently working on [VIJOSAK](https://vijosak.com)
 - 🌱 I’m learning Python and Flask
 - 💬 Ask me about Automation
 - 📫 How to reach me: WhatsApp: +2347045155662
