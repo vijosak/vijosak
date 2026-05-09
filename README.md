@@ -1,23 +1,67 @@
+# 🚀 Adesanoye Ovie Bolade – DevOps & Cloud Engineer | SRE | Project Manager
 
-# Web Solution Expert: Delivering Exceptional Results for Your Business
-I'm a highly skilled and adaptable Web Solution Expert specializing in crafting customized solutions using the latest technologies like Docker, AWS, Python, and Flask. My focus is on understanding your unique web and cloud needs and exceeding your expectations.
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
+![Docker](https://img.shields.io/badge/Docker-✓-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-✓-blue)
+![Terraform](https://img.shields.io/badge/Terraform-✓-green)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-✓-blue)
+![Python](https://img.shields.io/badge/Python-✓-yellow)
 
-I excel in all phases of development, from designing and building robust web applications to seamless deployment, ongoing maintenance, and secure integration. My client-focused approach ensures clear communication and successful project delivery, on time and within budget.
+**Lagos, Nigeria** | [vijosak.com](https://vijosak.com) | [LinkedIn](https://www.linkedin.com/in/adesanoyeovie) | [Twitter](https://twitter.com/adesanoyeovie)
 
-Let's collaborate to bring your vision to life. Leverage my expertise to elevate your business and achieve your goals.
+---
 
+### 👋 About Me
 
-📬 Contact me: ovie.adesanoye@gmail.com
+I’m a **multi‑disciplined technologist** bridging the gap between development, operations, and business. As an **AWS Certified DevOps Engineer**, I design resilient cloud architectures, automate delivery pipelines, and ensure system reliability. As a **Project Manager**, I translate stakeholder requirements into actionable plans, manage risks, and deliver value on time.
 
-- 🔭 I’m currently working on [VIJOSAK](https://vijosak.com)
-- 🌱 I’m learning Python and Flask
-- 💬 Ask me about Automation
-- 📫 How to reach me: WhatsApp: +2347045155662
+My approach: **Automate everything, monitor constantly, iterate rapidly.**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vijosak) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adesanoyeovie/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/adesanoyeovie) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/adesanoyeovie) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vijosak.com)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijosak)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Core Competencies
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vijosak&show_icons=true)
+| **DevOps** | **Cloud Engineering** | **Reliability (SRE)** | **Project Management** |
+|------------|----------------------|-----------------------|------------------------|
+| CI/CD (GitHub Actions, Jenkins) | AWS (EC2, EKS, Lambda, CloudFormation) | Observability (Prometheus, Grafana, ELK) | Agile / Scrum |
+| Docker, K8s, Helm | Azure Fundamentals | SLI/SLO definition | Risk & Stakeholder Management |
+| Terraform, Ansible | Multi‑cloud architecture | Incident Response & Postmortems | Roadmaps & OKRs |
 
-![Profile views](https://gpvc.arturio.dev/vijosak)
+---
+
+### 📜 Certifications
+
+- ✅ AWS Certified DevOps Engineer – Professional
+- ✅ AWS Certified Solutions Architect – Associate
+- 🎯 (Planned) Certified Kubernetes Administrator (CKA)
+
+---
+
+### 📌 Featured Projects
+
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| [devops-portfolio](https://github.com/vijosak/devops-portfolio) | End‑to‑end DevOps projects (IaC, CI/CD, K8s, Monitoring) | Terraform, AWS, GitHub Actions, K8s |
+| [todo-app](https://github.com/vijosak/todo-app) | Dockerized Node.js & MongoDB with Kubernetes manifests | Docker, K8s, Compose |
+| [traefik](https://github.com/vijosak/traefik) | Reverse proxy with Let’s Encrypt, Docker Compose | Traefik, Docker |
+| [keycloak-docker](https://github.com/vijosak/keycloak-docker) | Keycloak on Docker with HTTPS | Docker Compose, Let’s Encrypt |
+| [homelab-goodies](https://github.com/vijosak/homelab-goodies) | Various docker‑compose stacks for dev/prod | Docker, Shell |
+
+---
+
+### 📊 GitHub Stats
+
+[![Vijosak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijosak&show_icons=true&theme=radical)](https://github.com/vijosak)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijosak&layout=compact&theme=radical)](https://github.com/vijosak)
+
+*(Stats auto‑updated via GitHub Actions)*
+
+---
+
+### 📫 Let’s Connect
+
+- 📧 [ovie.adesanoye@gmail.com](mailto:ovie.adesanoye@gmail.com)
+- 💬 WhatsApp: +2347045155662
+- 🌐 [https://vijosak.com](https://vijosak.com)
+
