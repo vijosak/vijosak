@@ -1,0 +1,15 @@
+name: Update Profile README
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # every Sunday
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      # Optional: commit updated stats back to repo
