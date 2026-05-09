@@ -61,7 +61,7 @@ My approach: **Automate everything, monitor constantly, iterate rapidly.**
 
 ### 📫 Let’s Connect
 
-- 📧 [ovie.adesanoye@gmail.com](mailto:ovie.adesanoye@gmail.com)
+- 📧 [adesanoyeovie@gmail.com](mailto:adesanoyeovie@gmail.com)
 - 💬 WhatsApp: +2347045155662
 - 🌐 [https://vijosak.com](https://vijosak.com)
 
